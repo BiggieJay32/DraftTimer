@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DraftTimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DraftTimer_jar</output-path>
+    <root id="archive" name="DraftTimer.jar">
+      <element id="module-output" name="DraftTimer" />
+    </root>
+  </artifact>
+</component>
